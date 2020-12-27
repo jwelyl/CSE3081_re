@@ -1,0 +1,4 @@
+3
+2 HW01_1D_10.in.bin output_2_1.bin
+2 HW01_1D_1000.in.bin output_2_2.bin
+2 HW01_1D_10000.in.bin output_2_3.bin
